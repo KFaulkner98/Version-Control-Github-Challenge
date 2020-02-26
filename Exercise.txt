@@ -1,0 +1,8 @@
+1. Explain what the terminal is in your own words.
+	The terminal allows you to navigate through your computer, using commands.
+
+2. What is the major difference between Git and Github
+	Git is used locally on different computers, while Github is an online service that allows for collaboration.
+
+3. Why do we use Github?
+	We use Github to work together.
